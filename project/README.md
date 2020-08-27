@@ -22,10 +22,18 @@ My project is about restaurants and cafes in Amsterdam. I belive that they can b
 I live not far from the city centre but my area lacks local restaurants and cafes. I wanted to check whether they are evenly distributed across other city districts, what the hot spots are, how the number of places correlates with the number of local population. I knew that they are concentrated mainly in the touristic centre, but was curious to come across something unusual.
 
 ## Dataset
-1.HoReCa operating permits https://data.amsterdam.nl/datasets/GsY50tEkoJKCGw/verleende-exploitatievergunningen-horeca-met-terrasgrenzen-en-ontheffingen/
-2.Hotels https://data.overheid.nl/dataset/smyieailr6urlg
-3.Population in Amsterdam by postcode https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83503NED/table?ts=1597240628187
-4.Tripadvisor restaurants rating https://www.kaggle.com/damienbeneschi/krakow-ta-restaurans-data-raw
+1. HoReCa operating permits https://data.amsterdam.nl/datasets/GsY50tEkoJKCGw/verleende-exploitatievergunningen-horeca-met-terrasgrenzen-en-ontheffingen/
+
+
+2. Hotels https://data.overheid.nl/dataset/smyieailr6urlg
+
+
+3. Population in Amsterdam by postcode https://opendata.cbs.nl/statline/#/CBS/nl/dataset/83503NED/table?ts=1597240628187
+
+
+4. Tripadvisor restaurants rating https://www.kaggle.com/damienbeneschi/krakow-ta-restaurans-data-raw
+
+
 Very important website where I checked the postcode areas: https://postcodebijadres.nl/amsterdam
 
 ## Database
